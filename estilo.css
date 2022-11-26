@@ -1,0 +1,50 @@
+.col{
+    margin: -3%;
+}
+
+.color{
+    margin: -3%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.escudo{
+    background: url(img/escudo.jpg) no-repeat;
+    background-position: center;
+    height: 15vw;
+    background-size: contain;
+    
+}
+
+.row{
+    
+    padding: 30px;
+   
+}
+
+.nav-item :hover{
+
+    
+    background-color: #32e2ef;
+    transition: 1s;
+    border-radius: 8px
+    
+}
+
+.navbar-brand:hover{
+
+    background-color: #32e2ef;
+    transition: 1s;
+    border-radius: 8px
+
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif !important; 
+}
+
+p{
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+}
